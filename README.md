@@ -68,51 +68,6 @@ After training, the model achieved the following results:
 
 ---
 
-## 📌 Requirements
-
-Make sure the following libraries are installed:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn
-```
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/california-housing-lr.git
-   cd california-housing-lr
-   ```
-
-2. Run the script:
-
-   ```bash
-   python california_housing_lr.py
-   ```
-
----
-
-## 📁 File Structure
-
-```
-├── california_housing_lr.py   # Main script file
-├── README.md                  # Project documentation
-```
-
----
-
-## 🤖 Future Improvements
-
-* Try more advanced models like Random Forest or Gradient Boosting for improved accuracy.
-* Use feature scaling or normalization techniques.
-* Add cross-validation to prevent overfitting.
-* Visualize feature importance.
-
----
-
 ## 🧠 Learnings
 
 This project demonstrates:
@@ -123,5 +78,3 @@ This project demonstrates:
 * The importance of visualizing model performance.
 
 ---
-
-Let me know if you want this formatted as a Markdown file or want it shortened into a compact summary.
